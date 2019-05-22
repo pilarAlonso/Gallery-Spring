@@ -1,5 +1,6 @@
 package com.prueba.demoprueba.Models;
 
+
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.prueba.demoprueba.Entities.Client;
 import com.prueba.demoprueba.Entities.Technique;
